@@ -12,7 +12,7 @@ title = "Cesa Asesores"
     hide_view_all_services = false  # set to true to hide the View All Services button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/logo-cesa.svg"
     mobile_height = "36px"
     desktop = "images/logo/logo-cesa.png"
     desktop_height = "36px"
