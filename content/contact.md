@@ -20,4 +20,4 @@ layout: contact
 | Martes    | 9:00am - 19:00pm |
 | Miercoles | 9:00am - 19:00pm |
 | Jueves    | 9:00am - 19:00pm |
-| Viernes   | 9:00am - 15:00pm  |
+| Viernes   | De 9:00am - 15:00pm  |
