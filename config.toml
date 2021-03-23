@@ -1,5 +1,5 @@
 baseURL = "www.example.com"
-languageCode = "en-us"
+languageCode = "en-es"
 title = "Hugo Serif Theme"
 
 [params]
