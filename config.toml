@@ -15,7 +15,7 @@ title = "Cesa Asesores"
     mobile = "images/logo/logo-cesa.png"
     mobile_height = "36px"
     desktop = "images/logo/logo-cesa-altaresolucion-horizontal.jpg"
-    desktop_height = "36px"
+    desktop_height = "56px"
     alt = "Cesa Asesores"
 
   [params.homepage_meta_tags]
