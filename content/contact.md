@@ -16,7 +16,7 @@ layout: contact
 
 | Dia       | Horario de apertura   |
 | --------- | --------------- |
-| Lunes     | 9:00 a.m. - 19:00pm |
+| Lunes     | 9:00 a.m. - 19:00 p.m. |
 | Martes    | 9:00am - 19:00pm |
 | Miercoles | 9:00am - 19:00pm |
 | Jueves    | 9:00am - 19:00pm |
