@@ -18,6 +18,6 @@ layout: contact
 | --------- | --------------- |
 | Lunes     | De 9:00 a.m. a 19:00 p.m. |
 | Martes    | De 9:00 a.m. a 19:00 p.m. |
-| Miercoles | De 9:00am a 19:00 p.m. |
-| Jueves    | De 9:00am a 19:00 p.m. |
+| Miercoles | De 9:00 a.m. a 19:00 p.m. |
+| Jueves    | De 9:00 a.m. a 19:00 p.m. |
 | Viernes   | De 9:00 a.m. a 15:00 p.m.  |
