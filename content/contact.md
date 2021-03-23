@@ -12,6 +12,7 @@ layout: contact
     allowfullscreen=""
     loading="lazy">
     </iframe>
+    </code>
 
 
 | Dia       | Horario de apertura   |
