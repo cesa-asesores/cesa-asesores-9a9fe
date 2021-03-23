@@ -14,8 +14,6 @@ layout: contact
     </iframe>
 
 
-
-
 | Dia       | Horario de apertura   |
 | --------- | --------------- |
 | Lunes     | 9:00am - 19:00pm |
