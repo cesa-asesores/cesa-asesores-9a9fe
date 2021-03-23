@@ -9,7 +9,7 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de 
 | Day       | Opening Hours   |
 | --------- | --------------- |
 | Lunes     | 9:00am - 19:00pm |
-| Wednesday | 9:00am - 19:00pm |
+| Martes    | 9:00am - 19:00pm |
 | Thursday  | 9:00am - 19:00pm |
 | Friday    | 9:00am - 19:00pm |
 | Saturday  | 10:am - 4:00pm  |
