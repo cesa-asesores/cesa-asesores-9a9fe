@@ -9,5 +9,4 @@ Si quietres una tabla se define así
 |Lunes|Martes|Miércoles|Jueves|Viernes|
 |----------|:-------------:|------:|
 | 9:00 - 19:00|  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+
