@@ -6,7 +6,7 @@ layout: contact
 
 Si quietres una tabla se define así
 
-|Lunes|Martes|Miércoles|Jueves|Viernes
+|Lunes|Martes|Miércoles|Jueves|Viernes|
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
