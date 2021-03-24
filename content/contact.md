@@ -4,7 +4,7 @@ date: '2018-02-22T17:01:34+07:00'
 layout: contact
 ---
 
-Si quietres una tabla en formato así
+Si quietres una tabla se define así formato así
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
