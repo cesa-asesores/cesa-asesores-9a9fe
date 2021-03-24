@@ -6,6 +6,7 @@ layout: contact
 
 Si quietres una tabla se define así
 
-|Lunes|Martes|Miércoles|Jueves|Viernes|
-| 9:00 - 19:00| 9:00 - 19:00| 9:00 - 19:00| 9:00 - 19:00| 9:00 - 19:00|
+| Lunes        | Martes       | Miércoles    | Jueves       | Viernes      |
+|--------------|--------------|--------------|--------------|--------------|
+| 9:00 - 19:00 | 9:00 - 19:00 | 9:00 - 19:00 | 9:00 - 19:00 | 9:00 - 15:00 |
 
