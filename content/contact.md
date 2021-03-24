@@ -8,6 +8,6 @@ Si quietres una tabla se define así
 
 |Lunes|Martes|Miércoles|Jueves|Viernes|
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
+| 9:00 - 19:00|  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
