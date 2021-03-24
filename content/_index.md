@@ -6,4 +6,4 @@ intro_image_hide_on_mobile: true
 ---
 # Serif - A Hugo Business Theme.
 
-En construcción
+Trabajamos con autónomos, pymes y grandes empresas con proyección de crecimiento empresarial que necesiten servicios de consultoría y asesoría fiscal, laboral, contable y jurídica.
