@@ -6,7 +6,7 @@ layout: contact
 
 Si quietres una tabla se define así
 
-| Tables   |      Are      |  Cool |
+| Lunes   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
