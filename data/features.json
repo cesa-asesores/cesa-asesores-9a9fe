@@ -1,7 +1,8 @@
 [
     {
         "title": "Los clientes primero",
-        "description": "Porque depositan su confianza en nosotros, son nuestros mejores embajadores y su sastisfacción es el motivo de nuestra continua mejora."
+        "description": "Porque depositan su confianza en nosotros, son nuestros mejores embajadores y su sastisfacción es el motivo de nuestra continua mejora.",
+        "image": "images/cliente.png"
     },
     {
         "title": "Experiencia",
