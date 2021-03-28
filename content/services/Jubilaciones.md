@@ -11,6 +11,6 @@ El fin de la vida laboral conlleva una serie de trámites y de gestiones, de las
 
 En Cesa Asesores realizamos estudios de jubilaciones con el fin de conocer la cuantía de la pensión resultante según los años y bases de cotización, también con periodos cotizados en el extranjero.
 
-Ofrecemos además la realización del cálculo de prejubilaciones a fin de conocer el importe de la indemnización de despido, la prestación por desempleo y la cuantía de la futura pensión de jubilación que resulte, además de los complementos de empresa que se negocien.
+También ofrecemos la realización del cálculo de prejubilaciones a fin de conocer el importe de la indemnización de despido, la prestación por desempleo y la cuantía de la futura pensión de jubilación que resulte, además de los complementos de empresa que se negocien.
 
 No solo realizamos el estudio, también preparamos la documentación necesaria y la tramitamos ante la Seguridad Social.
