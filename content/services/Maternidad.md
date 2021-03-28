@@ -1,5 +1,5 @@
 ---
-title: Maternidad y Paternidad
+title: Bajas Maternidad y Paternidad
 date: '2018-11-18T12:33:46+10:00'
 draft: false
 featured: true
