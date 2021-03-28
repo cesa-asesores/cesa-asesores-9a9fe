@@ -1,1 +1,0 @@
-file:///home/codeeditor/workspace/content/services/accounting.md
