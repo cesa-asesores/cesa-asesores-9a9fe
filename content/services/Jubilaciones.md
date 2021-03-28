@@ -7,41 +7,10 @@ weight: 7
 ---
 ¿Se acerca el momento de finalizar su etapa laboral?
 
- Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+El fin de la vida laboral conlleva una serie de trámites y de gestiones, de las cuales pueden surgir dudas a la hora de llevarlas a cabo.
 
-*   Nata perque
-*   Et ferrugine laedam
-*   Cedere tandem Atlante maiestas Italicis ut forma
+En Cesa Asesores realizamos estudios de jubilaciones con el fin de conocer la cuantía de la pensión resultante según los años y bases de cotización, también con periodos cotizados en el extranjero.
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+Ofrecemos además la realización del cálculo de prejubilaciones a fin de conocer el importe de la indemnización de despido, la prestación por desempleo y la cuantía de la futura pensión de jubilación que resulte, además de los complementos de empresa que se negocien.
 
-1.  Imagine Assaracus victori petet femina mea haustos
-2.  Sicaniam quibus agro magni
-3.  In utque Troica pedum caelestia hunc tempto
-4.  Gregibus certare tamen turbatque qui
-
-## Patulis Veneris est expulit adversaque magnum mediaque
-
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-*Diduxit manibus* anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis *amplectitur inbutum retractat* te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! *Quam perque
-semper*?
+No solo realizamos el estudio, también preparamos la documentación necesaria y la tramitamos ante la Seguridad Social.
