@@ -5,7 +5,7 @@ draft: false
 featured: true
 weight: 10
 ---
-Nuestros abogados te podrán ofrecer nuestros servicios profesionales en la tramitación de despido, tanto desde el punto de vista empresarial como del trabajador.
+Nuestros abogados le podrán ofrecer nuestros servicios profesionales en la tramitación de despido, tanto desde el punto de vista empresarial como del trabajador.
 
 Recuerda que contra el despido deberá reclamar en el plazo de 20 días hábiles, este plazo es de caducidad.
 
