@@ -5,7 +5,7 @@ draft: false
 featured: true
 weight: 12
 ---
-Como cada año os ofrecemos la posibilidad de realizar vuestra Declaración sobre la Renta con nosotros, con la confianza de asesores especialistas y evitando así, cualquier error que pueda producirse al realizarla uno mismo o con cita previa en la propia Agencia Tributaria.
+Como cada año ofrecemos la posibilidad de realizar la Declaración sobre la Renta con nosotros, con la confianza de asesores especialistas y evitando así, cualquier error que pueda producirse al realizarla uno mismo o con cita previa en la propia Agencia Tributaria.
 
 # ![](/images/logo-agencia-tributaria.png)&#xA;&#xA;
 
