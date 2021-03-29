@@ -7,7 +7,7 @@ weight: 15
 ---
 La Comunidad de Madrid pone a disposición de las empresas determinadas ayudas y subvenciones para fomentar la contratación.
 
-Establece ayudas dirigidas a empresas, a los trabajadores autónomos y entidades de carácter privado que no tengan ánimo de lucro. Se plantean varias subvenciones orientadas a favorecer la contratación:
+La Comunidad de Madrid establece ayudas dirigidas a empresas, a los trabajadores autónomos y entidades de carácter privado que no tengan ánimo de lucro. Se plantean varias subvenciones orientadas a favorecer la contratación:
 
 *   Impulso a la contratación en prácticas.
 
@@ -30,7 +30,5 @@ Establece ayudas dirigidas a empresas, a los trabajadores autónomos y entidades
 *   Mujeres víctimas de violencia de género, victimas del terrorismo y personas en riesgo de exclusión social.
 
 *   Programa de fomento de la contratación de personas con discapacidad en la empresa ordinaria.
-
-
 
 Se informa de los requisitos e importes de las mismas además de, si estuvieran interesados, la tramitación de dicha gestión.
