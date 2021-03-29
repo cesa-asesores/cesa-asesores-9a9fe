@@ -7,38 +7,14 @@ weight: 17
 ---
 Si acaba de comprar un vehículo o tiene pensado venderlo se debe realizar el cambio de titularidad del mismo. Nosotros nos encargamos de realizar sus gestiones cumpliendo los plazos y requisitos que marca la ley.
 
-Nos encargamos de realizar sus gestiones cumpliendo
+Para poder realizar el trámite de transferencia el vendedor debe tener la documentación en regla del vehículo y que se hace necesaria para transferir:
 
-*   Nata perque
-*   Et ferrugine laedam
-*   Cedere tandem Atlante maiestas Italicis ut forma
+*   Tarjeta de Inspección Técnica (ficha técnica)
+*   Impuesto sobre Vehículos de Tracción Mecánica correspondiente al año anterior a la compra-venta (Impuesto de Circulación)
+*   Permiso de Circulación.
+*   Contrato de compra-venta.
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+Por lo tanto, para ahorrarnos tiempo en desplazamientos se debe firmar el contrato de compra-venta en la Asesoría aportando a su vez el Documento Nacional de Identidad tanto de vendedor como de comprador.
 
-1.  Imagine Assaracus victori petet femina mea haustos
-2.  Sicaniam quibus agro magni
-3.  In utque Troica pedum caelestia hunc tempto
-4.  Gregibus certare tamen turbatque qui
+La tramitación es inmediata, siempre que el vehículo no tenga ningún impedimento. Le entregaremos una Autorización Provisional de circulación emitida por la propia Jefatura de Tráfico.
 
-## Patulis Veneris est expulit adversaque magnum mediaque
-
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-*Diduxit manibus* anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis *amplectitur inbutum retractat* te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! *Quam perque
-semper*?
