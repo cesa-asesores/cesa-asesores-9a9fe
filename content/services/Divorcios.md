@@ -7,12 +7,12 @@ weight: 13
 ---
 La experiencia de nuestros abogados logrará que le sea más llevadero un momento tan delicado y transcendental.
 
-Dirigimos todos los casos de divorcios (con o sin hijos): 
+Dirigimos todos los casos de divorcios (con o sin hijos):
 
-*   Divorcio de Mutuo Acuerdo
+*   Divorcio de Mutuo Acuerdo.
 
-*   Divorcios Contradictorios o Contenciosos
+*   Divorcios Contenciosos o Contradictorios.
 
-*   Separación o suspensión de la vida en común sin romper el vínculo matrimonial
+*   Separación o suspensión de la vida en común sin romper el vínculo matrimonial.
 
 Nos encargamos también de la **Liquidación del Régimen Económico Matrimonia**l, ya sea Sociedad de Gananciales, participación o separación de bienes, de manera contradictoria o de mutuo acuerdo.
