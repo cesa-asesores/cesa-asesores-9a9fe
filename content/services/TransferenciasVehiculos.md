@@ -14,7 +14,10 @@ Para poder realizar el trámite de transferencia el vendedor debe tener la docum
 *   Permiso de Circulación.
 *   Contrato de compra-venta.
 
-Por lo tanto, para ahorrarnos tiempo en desplazamientos se debe firmar el contrato de compra-venta en la Asesoría aportando a su vez el Documento Nacional de Identidad tanto de vendedor como de comprador.
+Se firmará el contrato de compra-venta en la Asesoría aportando a su vez el Documento Nacional de Identidad tanto de vendedor como de comprador.
 
 La tramitación es inmediata, siempre que el vehículo no tenga ningún impedimento. Le entregaremos una Autorización Provisional de circulación emitida por la propia Jefatura de Tráfico.
 
+Tasas que debe de tener en cuenta a la hora de dicha tramitación:
+
+*
