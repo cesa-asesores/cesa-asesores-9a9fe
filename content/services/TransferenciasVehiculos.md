@@ -20,4 +20,8 @@ La tramitación es inmediata, siempre que el vehículo no tenga ningún impedime
 
 Tasas que debe de tener en cuenta a la hora de dicha tramitación:
 
-*
+*   Tasa de la DGT.
+*   Tasa colegio de gestores.
+*   Impuesto de Transmisiones: el 4% del valor del vehículo\*
+
+\*El valor del vehículo queda fijado por Ley todos los años.
