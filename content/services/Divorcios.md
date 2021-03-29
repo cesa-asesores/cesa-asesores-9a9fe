@@ -16,3 +16,6 @@ Dirigimos todos los casos de divorcios (con o sin hijos):
 *   Separación o suspensión de la vida en común sin romper el vínculo matrimonial.
 
 Nos encargamos también de la **Liquidación del Régimen Económico Matrimonia**l, ya sea Sociedad de Gananciales, participación o separación de bienes, de manera contradictoria o de mutuo acuerdo.
+
+\*Si se preguntan cuál es la diferencia entre la separación y el divorcio os indicaremos que en la separación los cónyuges siguen estando casados no pudiendo contraer de nuevo matrimonio con otras personas, lo único que cesa es la convivencia. En el divorcio hay una ruptura total de la relación matrimonial, por ello se produce la disolución del matrimonio y los cónyuges divorciados pueden volver a contraer matrimonio.
+
