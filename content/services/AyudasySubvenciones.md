@@ -31,3 +31,6 @@ Establece ayudas dirigidas a empresas, a los trabajadores autónomos y entidades
 
 *   Programa de fomento de la contratación de personas con discapacidad en la empresa ordinaria.
 
+
+
+Se informa de los requisitos e importes de las mismas además de, si estuvieran interesados, la tramitación de dicha gestión.
