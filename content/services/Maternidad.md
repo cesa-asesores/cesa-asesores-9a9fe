@@ -1,5 +1,5 @@
 ---
-title: Bajas Maternidad y Paternidad
+title: Bajas Maternidad y Paternidad. Ayudas 100 euros.
 date: '2018-11-18T12:33:46+10:00'
 draft: false
 featured: true
