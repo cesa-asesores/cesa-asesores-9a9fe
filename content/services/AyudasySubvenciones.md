@@ -5,31 +5,29 @@ draft: false
 featured: true
 weight: 15
 ---
-La Comunidad de Madrid pone a disposición de las empresas determinadas ayuas y subvenciones para fomentar la contratación.
+La Comunidad de Madrid pone a disposición de las empresas determinadas ayudas y subvenciones para fomentar la contratación.
 
+Establece ayudas dirigidas a empresas, a los trabajadores autónomos y entidades de carácter privado que no tengan ánimo de lucro. Se plantean varias subvenciones orientadas a favorecer la contratación:
 
+*   Impulso a la contratación en prácticas.
 
+*   Impulso al contrato de formación y aprendizaje.
 
+*   Contratación estable jóvenes.
 
+*   "Mi primer empleo joven".
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+*   Programa de incentivos a la contratación indefinida inicial.
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
+*   Incentivos para la conversión de contratos temporales y formativos en indefinidos.
 
-*Diduxit manibus* anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
+*   Incentivos a la reincorporación de trabajadores contratados indefinidamente afectados por Expediente de Regulación Temporal de Empleo para la suspensión de contratos.
 
-Cursus suis *amplectitur inbutum retractat* te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
+*   Incentivos al restablecimiento de la jornada laboral de trabajadores contratados indefinidamente afectados por expedientes de regulación temporal de empleo para la reducción de jornada basados en fuerza mayor o causas económicas, técnicas, organizativas y de producción vinculadas al COVID-19
 
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! *Quam perque
-semper*?
+*   Incentivos por ampliación a jornada completa de contratos indefinidos a tiempo parcial con una antigüedad de, al menos, dos meses y siempre que el porcentaje de ampliación de la jornada suponga, al menos, un incremento de un 20%.
+
+*   Mujeres víctimas de violencia de género, victimas del terrorismo y personas en riesgo de exclusión social.
+
+*   Programa de fomento de la contratación de personas con discapacidad en la empresa ordinaria.
+
