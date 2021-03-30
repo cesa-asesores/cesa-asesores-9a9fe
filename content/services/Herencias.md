@@ -5,7 +5,7 @@ featured: true
 draft: false
 weight: 6
 ---
-¿Necesita tramitar su herencia o presentar impuestos? ¿Quiere hacer su testamento?
+¿Necesita tramitar una herencia o presentar impuestos? ¿Quiere hacer su testamento?
 
 ## Ne verba patulosque numen vix libet
 
