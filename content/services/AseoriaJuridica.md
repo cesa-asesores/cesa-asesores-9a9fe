@@ -9,44 +9,44 @@ En Cesa Asesores prestamos asesoramiento jurídico en diferentes ramas del Derec
 
 ## Asesoría Jurídica: Rama Laboral
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens *ferro nocere haud*, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+*   Asesoramiento y representación ante inspecciones de trabajo.
 
-1.  Cum det dixit Parcarum qui spemque est
-2.  Exit ex huic
-3.  Quod consiste agitataque claustraque vicina videt lacertis
-4.  Loquor videt
-5.  Ardua non igne caelesti coniugis cognovi diversorum
-6.  Per nunc pariterque saeva vindicet
+*   Negociación colectiva y conciliación.
+
+*   Redacción de contratos laborales y alta dirección
+
+*   Reclamaciones de Cantidad
+
+*   Despidos y despidos colectivos (por causas objetivas o disciplinarios)
+
+*   Expedientes de regularización de empleo
+
+*   Procedimientos ante la jurisdicción social
 
 ## Asesoría Jurídica: Rama Civil
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+*   Derecho de Familia: Mediación, Divorcio (Mutuo acuerdo, contencioso)
 
-*   Parens est studiisque interea
-*   Pro istis mediis carnes iste nec imperat
-*   Te vocas orat nisi quantumque castra
-*   Gestumque crepuscula esse videntur coegit
-*   Ambo videtque gerat aquae ferens vagina
-*   Adde leviter faciam tetigisse regunt concava in
+*   Medidas paterno filiales. Procedimientos de Filiación y paternidad
+
+*   Modificación de medidas: custodia, pensión de alimentos y compensatoria.
+
+*   Negociación, redacción e implementación de protocolos familiares
+
+*   Asesoramiento en operaciones de compraventa de inmuebles.
+
+*   Planificación de sucesión testamentaria. Elaboración del testamento y otros pactos sucesorios.
+
+*   Contratos de arrendamiento de inmuebles.
 
 ## Asesoría Jurídica: Rama Mercantil
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+*   Constitución de sociedades y entidades jurídicas.
 
-*   Parens est studiisque interea
+*   Redacción y confección de contratos mercantiles.
 
-*   Pro istis mediis carnes iste nec imperat
+*   Liquidación, disolución y transformación de sociedades en todas sus variantes.
 
-*   Te vocas orat nisi quantumque castra
+*   Asesoramiento en compraventa de empresas.
 
-*   Gestumque crepuscula esse videntur coegit
-
-*   Ambo videtque gerat aquae ferens vagina
-
-*   Adde leviter faciam tetigisse regunt concava in
+*   Traspasos empresariales.
