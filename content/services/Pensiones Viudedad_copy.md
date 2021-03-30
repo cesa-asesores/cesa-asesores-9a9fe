@@ -22,7 +22,6 @@ Documentos para realizar la solicitud:
 
     *   *Si estaba casado con el fallecido:* **Libro de Familia**
 
-    *   *Si estabais separados, divorciados o bien el matrimonio fuera declarado nulo:*** Sentencia judicial** donde figure la situación y** Documento que acredite que no se ha vuelto a casar ni es pareja de hecho** de nadie tras finalizar su relación con el fallecido.
+    *   *Si estabais separados, divorciados o bien el matrimonio fuera declarado nulo:* **Sentencia judicial** donde figure la situación y **Documento que acredite que no se ha vuelto a casar ni es pareja de hecho** de nadie tras finalizar su relación con el fallecido.
 
     *   *Si erais pareja de hecho:* **Certificado de constitución como pareja** de hecho, **Certificado de empadronamiento** que acredite que han convivido al menos durante 5 años inmediatamente anteriores a la defunción, **Documento donde figuren sus ingresos** actuales y los de su pareja en el año anterior al fallecimiento (Declaración sobre la Renta o acreditación con nóminas salariales, documentos bancarios u otros) y **Actas del Registro Civi**l.
-
