@@ -9,23 +9,23 @@ Cuando nace o se adopta un hijo se deben de realizar una serie de trámites admi
 
 Para poder solicitar la prestación por Maternidad y/o Paternidad necesitaríamos los siguientes documentos:
 
-*   Documento Nacional de Identidad de los progenitores.
+*   **Documento Nacional de Identidad** (DNI) de los progenitores.
 
-*   Justificante de inscripción en el Registro Civil.
+*   **Justificante de inscripción en el Registro Civil.**
 
-*   Libro de Familia.
+*   **Libro de Familia.**
 
-*   En caso de ser asalariados: certificado de empresa.
+*   En caso de ser asalariados: **certificado de empresa.**
 
-*   En caso de ser autónomo: los últimos 3 recibos del pago y Declaración de situación de la actividad.
+*   En caso de ser autónomo: **los últimos 3 recibos del pago y Declaración de situación de la actividad.**
 
-*   En caso de estar cobrando prestación por desempleo: justificante de baja en prestación de INEM.
+*   En caso de estar cobrando prestación por desempleo: j**ustificante de baja en prestación de INEM**.
 
-*   Informe de maternidad (en el caso de las madres)
+*   **Informe de maternidad** (en el caso de las madres)
 
-*   Formulario cumplimentado de solicitud de prestación.
+*   **Formulario cumplimentado de solicitud de prestación**.
 
-*   Impreso "Modelo 145" para comunicar la situación familiar.
+*   Impreso "**Modelo 145**" para comunicar la situación familiar.
 
 **Ayuda de 100 euros a madres trabajadoras:**
 
