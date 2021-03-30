@@ -23,3 +23,4 @@ Una buena relación  personal con los empleados es un importante factor motivado
 *   Realización del resumen anual de percepciones de los trabajadores (Modelo 190).
 *   Elaboración y envío de los certificados de haberes anuales de los trabajadores para la confección de su declaración de la renta.
 *   Tramitación de expedientes de Jubilación, Invalidez, Viudedad, Orfandad, Pago directo de incapacidad temporal y Favor de Familiares.
+*   Empleadas de hogar.
