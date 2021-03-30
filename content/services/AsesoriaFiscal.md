@@ -15,7 +15,7 @@ Tener la fiscalidad e impuestos al día es esencial para cualquier empresa o aut
 
 *   Elaboración de modelos informativos a la Agencia Tributaria.
 
-*   Asesoramiento y defensa ante inspecciones de Hacienda.
+*   Asistencia y asesoramiento a Inspecciones ante los Organismos Oficiales.
 
 *   Requerimientos, recursos y reclamaciones.
 
