@@ -7,7 +7,7 @@ weight: 3
 ---
 Asesoría Laboral para la administración y gestión eficaz de recursos humanos.
 
-Una buena relación  personal con los empleados es un importante factor motivador y de crecimiento en sus empresas por lo que un buen asesoramiento laboral es un factor importante y evita muchos conflictos con el personal, errores en las contrataciones y cotizaciones y puede suponer un ahorro si se conocen los contratos adecuados a cada caso.
+Una buena relación  personal con los empleados es un importante factor motivador y de crecimiento en sus empresas por lo que un buen asesoramiento laboral es un factor clave y evita muchos conflictos con el personal, errores en las contrataciones y cotizaciones y puede suponer un ahorro si se conocen los contratos adecuados a cada caso.
 
 *   Contratos de trabajo: redacción de cláusulas contractuales, prorrogas y envíos al SEPE vía telemática.
 *   Confección y presentación de altas, bajas, variaciones, etc., en la Seguridad Social mediante sistema RED.
