@@ -5,38 +5,15 @@ draft: false
 featured: true
 weight: 11
 ---
-Solicitamos incapacidades y Pensiones de incapacidad permanente
+La Incapacidad Permanente es una prestación que se reconoce al trabajador cuando, después de haber estado sometido al tratamiento prescrito y haber sido dado de alta médicamente, presenta reducciones anatómicas o funcionales graves, previsiblemente definitivas que disminuyan o anulen su capacidad laboral.
 
-*   Nata perque
-*   Et ferrugine laedam
-*   Cedere tandem Atlante maiestas Italicis ut forma
+Está regulada en la vigente Ley General de la Seguridad Social y contempla cuatro grados: 
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+*   Incapacidad Permanente Parcial.
 
-1.  Imagine Assaracus victori petet femina mea haustos
-2.  Sicaniam quibus agro magni
-3.  In utque Troica pedum caelestia hunc tempto
-4.  Gregibus certare tamen turbatque qui
+*   Incapacidad Permanente Total para la profesión habitual.
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+*   Incapacidad Permanente Absoluta para toda profesión u oficio.
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
+*   Gran Invalidez.
 
-*Diduxit manibus* anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis *amplectitur inbutum retractat* te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! *Quam perque
-semper*?
