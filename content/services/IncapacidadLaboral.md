@@ -7,7 +7,7 @@ weight: 11
 ---
 La Incapacidad Permanente es una prestación que se reconoce al trabajador cuando, después de haber estado sometido al tratamiento prescrito y haber sido dado de alta médicamente, presenta reducciones anatómicas o funcionales graves, previsiblemente definitivas que disminuyan o anulen su capacidad laboral.
 
-Está regulada en la vigente Ley General de la Seguridad Social y contempla cuatro grados: 
+Está regulada en la vigente Ley General de la Seguridad Social y contempla cuatro grados:
 
 *   Incapacidad Permanente Parcial.
 
@@ -17,3 +17,4 @@ Está regulada en la vigente Ley General de la Seguridad Social y contempla cuat
 
 *   Gran Invalidez.
 
+Desde Cesa Asesores hacemos las tramitaciones pertinentes ante el INSS para que usted pueda tener reconocida dicha incapacidad.
