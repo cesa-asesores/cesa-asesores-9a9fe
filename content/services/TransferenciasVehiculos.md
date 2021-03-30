@@ -9,10 +9,10 @@ Si acaba de comprar un vehículo o tiene pensado venderlo se debe realizar el ca
 
 Para poder realizar el trámite de transferencia el vendedor debe tener la documentación en regla del vehículo y que se hace necesaria para transferir:
 
-*   Tarjeta de Inspección Técnica (ficha técnica)
-*   Impuesto sobre Vehículos de Tracción Mecánica correspondiente al año anterior a la compra-venta (Impuesto de Circulación)
-*   Permiso de Circulación.
-*   Contrato de compra-venta.
+*   **Tarjeta de Inspección Técnica** (ficha técnica)
+*   Impuesto sobre Vehículos de Tracción Mecánica correspondiente al año anterior a la compra-venta (**Impuesto de Circulación**)
+*   **Permiso de Circulación**.
+*   **Contrato de compra-venta**.
 
 Se firmará el contrato de compra-venta en la Asesoría aportando a su vez el Documento Nacional de Identidad tanto de vendedor como de comprador.
 
