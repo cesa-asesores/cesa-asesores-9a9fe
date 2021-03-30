@@ -27,4 +27,4 @@ Podemos orientarle desde el inicio, perfilando la idea inicial, redirigiendo cor
 
 Posteriormente, podemos encargarnos de todos los asuntos fiscales, contables, legales y laborales de su empresa.
 
-## \***Capitalización del paro**: supone adelantar las cuotas que tenemos&#xA;pendientes de cobrar por desempleo en un solo pago o utilizarlas para pagar&#xA;nuestras cuotas de autónomo al empezar una actividad&#xA;&#xA;&#xA;&#xA;
+### \***Capitalización del paro**: supone adelantar las cuotas que tenemos&#xA;pendientes de cobrar por desempleo en un solo pago o utilizarlas para pagar&#xA;nuestras cuotas de autónomo al empezar una actividad.&#xA;&#xA;&#xA;&#xA;
