@@ -17,4 +17,8 @@ Para que su gestión empresarial sea eficaz necesita el continuo flujo de inform
 
 *   Estudios de rentabilidad de la empresa, balances y memorias para bancos y cuentas de resultados.
 
+*   Análisis de la situación económico-financiera de la empresa.
+
+*   Estudio anual de la situación económico-contable de la empresa.
+
 *   Asesoramiento y supervisión de la contabilidad.
