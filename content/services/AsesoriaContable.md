@@ -11,4 +11,10 @@ Para que su gestión empresarial sea eficaz necesita el continuo flujo de inform
 
 *   Contabilidad conforme al Plan General Contable.
 
-*   Confección y Legalización de los Libros oficiales
+*   Confección y Legalización de los Libros oficiales.
+
+*   Elaboración y depósito de las Cuentas Anuales en el Registro Mercantil.
+
+*   Estudios de rentabilidad de la empresa, balances y memorias para bancos y cuentas de resultados.
+
+*   Asesoramiento y supervisión de la contabilidad.
