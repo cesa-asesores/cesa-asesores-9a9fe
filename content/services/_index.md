@@ -1,6 +1,6 @@
 ---
-title: 'Services'
-intro_image: "images/illustrations/reading.svg"
+title: Services
+intro_image: images/logo/logo-cesa-altaresolucion-horizontal.jpg
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
