@@ -37,7 +37,7 @@ En Cesa Asesores prestamos asesoramiento jurídico en diferentes ramas del Derec
 
 *   Planificación de sucesión testamentaria. Elaboración del testamento y otros pactos sucesorios.
 
-*   Contratos de arrendamiento de inmuebles.
+*   Asesoramiento integral en materia de compraventa de inmuebles: elaboramos contratos tanto preparatorios (arras, contratos privados de compraventa), como redactamos minutas para escrituras públicas, asistimos a la firma de las mismas y las tramitamos hasta la inscripción en el Registro de la Propiedad.
 
 ## Asesoría Jurídica: Rama Mercantil
 
