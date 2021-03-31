@@ -2,22 +2,11 @@
     {
         "name": "Github",
         "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
-        "image": "images/social/facebook.png"
-    },
-    {
-        "name": "Twitter",
-        "link": "[
-    {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
         "image": "images/social/github.svg"
     },
     {
         "name": "Twitter",
         "link": "https://twitter.com/zerostaticio",
         "image": "images/social/twitter.svg"
-    }
-]",
-        "image": "images/social/insta1.svg"
     }
 ]
