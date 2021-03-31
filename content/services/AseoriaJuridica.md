@@ -13,27 +13,29 @@ En Cesa Asesores prestamos asesoramiento jurídico en diferentes ramas del Derec
 
 *   Negociación colectiva y conciliación.
 
-*   Redacción de contratos laborales y alta dirección
+*   Redacción de contratos laborales y alta dirección.
 
-*   Reclamaciones de Cantidad
+*   Reclamaciones de Cantidad.
 
 *   Despidos y despidos colectivos (por causas objetivas o disciplinarios)
 
-*   Expedientes de regularización de empleo
+*   Expedientes de regularización de empleo.
 
-*   Procedimientos ante la jurisdicción social
+*   Procedimientos ante la jurisdicción social.
+
+*   Tramitación ERTES y ERES.
 
 ## Asesoría Jurídica: Rama Civil
 
 *   Derecho de Familia: Mediación, Divorcio (Mutuo acuerdo, contencioso)
 
-*   Medidas paterno filiales. Procedimientos de Filiación y paternidad
+*   Medidas paterno filiales. Procedimientos de Filiación y paternidad.
 
 *   Modificación de medidas: custodia, pensión de alimentos y compensatoria.
 
-*   Negociación, redacción e implementación de protocolos familiares
+*   Negociación, redacción e implementación de protocolos familiares.
 
-*   Asesoramiento en operaciones de compraventa de inmuebles.
+*   Procesos sobre incapacidad de las personas. En ocasiones, hay que abordar la necesidad de incapacitar a familiares, bien por problemas de origen como por enfermedades sobrevenidas por la edad. Realizamos todos los trámites judiciales para ello en los procesos de incapacitación, nombramiento de tutor y tramitación de tutela.
 
 *   Planificación de sucesión testamentaria. Elaboración del testamento y otros pactos sucesorios.
 
