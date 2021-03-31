@@ -1,12 +1,12 @@
 [
     {
-        "name": "Facebook",
-        "link": "",
-        "image": "images/social/twitter.svg"
+        "name": "Github",
+        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
+        "image": "images/social/github.svg"
     },
     {
-        "title": "Instagram",
-        "link": "https://instagram.com/cesa.asesores?igshid=1nxx7v92g5c9p",
+        "name": "Twitter",
+        "link": "https://twitter.com/zerostaticio",
         "image": "images/social/twitter.svg"
     }
 ]
