@@ -1,5 +1,5 @@
 ---
-title: 'Services'
+title: 'Servicios'
 intro_image: "images/CESA_CONTABILIDAD.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
