@@ -1,7 +1,8 @@
 ---
-title: 'Services'
-intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
+title: 'Servicios'
+date: '2018-02-22T17:01:34+07:00'
+intro_image:
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
 ---
 ![](/images/CESA%20CONTABILIDAD.jpg)
