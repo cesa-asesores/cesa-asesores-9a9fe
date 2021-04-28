@@ -1,5 +1,5 @@
 ---
-title: Sobre nosotros -
+title: Sobre nosotros
 date: '2018-02-22T17:01:34+07:00'
 ---
 **Cesa Asesores** es el resultado, desde 1981, de la unión y experiencia de varios profesionales cualificados en sus respectivas áreas. Su objeto social se encuentra en la prestación de servicios de asesoramiento fiscal, laboral, contable y jurídico.
