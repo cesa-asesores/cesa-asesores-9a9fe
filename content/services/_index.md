@@ -4,8 +4,4 @@ intro_image: images/CESA_CONTABILIDAD.jpg
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
-#
-
-![](/images/logo/logo-cesa.png)
-
-###### ****
+###### ![](/images/logo/logo-cesa.png)
